@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/DSA-LastHomework/cmake-build-debug/CMakeFiles/untitled28.dir
+C:/Users/User/Desktop/DSA-LastHomework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/DSA-LastHomework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
