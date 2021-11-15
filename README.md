@@ -1,4 +1,4 @@
-# DSA_SortedBag_on_Array
+# DSA_Final_Project
 
 For my last homework for the college course Data Structures and Algorithms
 I had to implementat a C++ version for A Sorted Bag , which has the values attached on a binary search tree, 
