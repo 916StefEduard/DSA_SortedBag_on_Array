@@ -1,6 +1,6 @@
 #include "ShortTest.h"
-#include "SortedBag.h"
-#include "SortedBagIterator.h"
+#include "../SortedBag/SortedBag.h"
+#include "../Iterator/SortedBagIterator.h"
 #include <assert.h>
 #include <iostream>
 #include <exception>

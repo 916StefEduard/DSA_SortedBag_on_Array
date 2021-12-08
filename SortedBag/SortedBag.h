@@ -1,6 +1,6 @@
 #pragma once
-#include "SortedBagIterator.h"
-#include "BSTNode.h"
+#include "../Iterator/SortedBagIterator.h"
+#include "../Node/BSTNode.h"
 
 typedef int TComp;
 typedef bool(*Relation)(TComp, TComp);
