@@ -9,7 +9,7 @@ also included in the project.
 ![image](https://user-images.githubusercontent.com/72076037/145281670-511f7390-1e0e-4d5b-b7f2-bcad7369249d.png)
 
 # Bag Implementation Header File
-![image](https://user-images.githubusercontent.com/72076037/145281533-212cc47d-3267-4ed3-b753-4cfc8caf68e4.png)
+![image](https://user-images.githubusercontent.com/72076037/145282388-3b4d1e52-93ff-4136-a572-dfc4a066444f.png)
 
 # Bag Iterator Header File
-![image](https://user-images.githubusercontent.com/72076037/145282188-ecde26a5-4a5d-49fe-b8b7-567d7381a2f7.png)
+![image](https://user-images.githubusercontent.com/72076037/145282463-5d5dca54-a94e-4f9c-b756-f21284d24ec4.png)
