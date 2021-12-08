@@ -5,6 +5,6 @@ which has the values attached on a binary search tree.The keys itself is also in
 The core operations for the data structure are implemented from scratch and a whole bunch of extended tests are 
 also included in the project.
 
-![image](https://user-images.githubusercontent.com/72076037/145281625-1bc3856d-c610-4b02-a05c-526fcbb1a9ed.png)
+![image](https://user-images.githubusercontent.com/72076037/145281670-511f7390-1e0e-4d5b-b7f2-bcad7369249d.png)
 ![image](https://user-images.githubusercontent.com/72076037/145281533-212cc47d-3267-4ed3-b753-4cfc8caf68e4.png)
 
