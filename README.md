@@ -6,7 +6,7 @@ The core operations for the data structure are implemented from scratch and a wh
 also included in the project.
 
 # Node Implementation Header File
-![image](https://user-images.githubusercontent.com/72076037/145281670-511f7390-1e0e-4d5b-b7f2-bcad7369249d.png)
+![image](https://user-images.githubusercontent.com/72076037/145282714-f1ba3602-bddc-4cef-8513-3ce456777b44.png)
 
 # Bag Implementation Header File
 ![image](https://user-images.githubusercontent.com/72076037/145282388-3b4d1e52-93ff-4136-a572-dfc4a066444f.png)
